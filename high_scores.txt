@@ -37,3 +37,8 @@
 2024-11-03 00:15:59 - Score: 1116, Max Tile: 128, Layers: 4, Params: 19204, Epsilon: 0.970225, Learning Rate: 0.001, Gamma: 0.95
 2024-11-03 00:17:19 - Score: 932, Max Tile: 64, Layers: 4, Params: 19204, Epsilon: 0.955671625, Learning Rate: 0.001, Gamma: 0.95
 2024-11-03 00:18:27 - Score: 676, Max Tile: 64, Layers: 4, Params: 19204, Epsilon: 0.941336550625, Learning Rate: 0.001, Gamma: 0.95
+2024-11-03 00:20:08 - Score: 1276, Max Tile: 128, Layers: 4, Params: 19204, Epsilon: 0.927216502365625, Learning Rate: 0.001, Gamma: 0.95
+2024-11-03 00:21:54 - Score: 1400, Max Tile: 128, Layers: 4, Params: 19204, Epsilon: 0.9133082548301407, Learning Rate: 0.001, Gamma: 0.95
+2024-11-03 00:23:28 - Score: 1276, Max Tile: 128, Layers: 4, Params: 19204, Epsilon: 0.8996086310076885, Learning Rate: 0.001, Gamma: 0.95
+2024-11-03 00:25:04 - Score: 1004, Max Tile: 128, Layers: 4, Params: 19204, Epsilon: 0.8861145015425732, Learning Rate: 0.001, Gamma: 0.95
+2024-11-03 00:26:59 - Score: 1472, Max Tile: 128, Layers: 4, Params: 19204, Epsilon: 0.8728227840194346, Learning Rate: 0.001, Gamma: 0.95
