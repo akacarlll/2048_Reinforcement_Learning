@@ -1,0 +1,39 @@
+2024-11-02 22:46:25 - Score: 1080, Max Tile: 128
+2024-11-02 22:47:43 - Score: 968, Max Tile: 128
+2024-11-02 22:49:17 - Score: 1020, Max Tile: 128
+2024-11-02 22:50:16 - Score: 336, Max Tile: 32
+2024-11-02 22:52:03 - Score: 1320, Max Tile: 128
+2024-11-02 22:53:44 - Score: 1320, Max Tile: 128
+2024-11-02 23:00:20 - Score: 1224, Max Tile: 128
+2024-11-02 23:02:01 - Score: 872, Max Tile: 64
+2024-11-02 23:03:35 - Score: 1228, Max Tile: 128
+2024-11-02 23:05:05 - Score: 1272, Max Tile: 128
+2024-11-02 23:18:38 - Score: 688, Max Tile: 64
+2024-11-02 23:20:36 - Score: 2068, Max Tile: 256
+2024-11-02 23:21:36 - Score: 512, Max Tile: 32
+2024-11-02 23:23:07 - Score: 1288, Max Tile: 128
+2024-11-02 23:24:14 - Score: 680, Max Tile: 64
+2024-11-02 23:25:01 - Score: 320, Max Tile: 32
+2024-11-02 23:26:38 - Score: 1324, Max Tile: 128
+2024-11-02 23:28:49 - Score: 2320, Max Tile: 256
+2024-11-02 23:30:09 - Score: 784, Max Tile: 64
+2024-11-02 23:31:43 - Score: 1320, Max Tile: 128
+2024-11-02 23:45:31 - Score: 1324, Max Tile: 128, Layers: 4, Params: 19204, Epsilon: 1.0, Learning Rate: 0.001, Gamma: 0.95
+2024-11-02 23:46:58 - Score: 972, Max Tile: 64, Layers: 4, Params: 19204, Epsilon: 0.995, Learning Rate: 0.001, Gamma: 0.95
+2024-11-02 23:48:00 - Score: 604, Max Tile: 64, Layers: 4, Params: 19204, Epsilon: 0.990025, Learning Rate: 0.001, Gamma: 0.95
+2024-11-02 23:49:15 - Score: 928, Max Tile: 128, Layers: 4, Params: 19204, Epsilon: 0.985074875, Learning Rate: 0.001, Gamma: 0.95
+2024-11-02 23:50:59 - Score: 1348, Max Tile: 128, Layers: 4, Params: 19204, Epsilon: 0.9801495006250001, Learning Rate: 0.001, Gamma: 0.95
+2024-11-02 23:52:07 - Score: 664, Max Tile: 64, Layers: 4, Params: 19204, Epsilon: 0.9752487531218751, Learning Rate: 0.001, Gamma: 0.95
+2024-11-02 23:53:48 - Score: 1456, Max Tile: 128, Layers: 4, Params: 19204, Epsilon: 0.9703725093562657, Learning Rate: 0.001, Gamma: 0.95
+2024-11-02 23:55:43 - Score: 1596, Max Tile: 128, Layers: 4, Params: 19204, Epsilon: 0.9655206468094844, Learning Rate: 0.001, Gamma: 0.95
+2024-11-02 23:57:36 - Score: 1996, Max Tile: 256, Layers: 4, Params: 19204, Epsilon: 0.960693043575437, Learning Rate: 0.001, Gamma: 0.95
+2024-11-02 23:59:15 - Score: 1372, Max Tile: 128, Layers: 4, Params: 19204, Epsilon: 0.9558895783575597, Learning Rate: 0.001, Gamma: 0.95
+2024-11-03 00:02:05 - Score: 1176, Max Tile: 128, Layers: 4, Params: 19204, Epsilon: 1.0, Learning Rate: 0.001, Gamma: 0.95
+2024-11-03 00:03:33 - Score: 1200, Max Tile: 128, Layers: 4, Params: 19204, Epsilon: 0.985, Learning Rate: 0.001, Gamma: 0.95
+2024-11-03 00:05:12 - Score: 1316, Max Tile: 128, Layers: 4, Params: 19204, Epsilon: 0.970225, Learning Rate: 0.001, Gamma: 0.95
+2024-11-03 00:07:03 - Score: 1412, Max Tile: 128, Layers: 4, Params: 19204, Epsilon: 0.955671625, Learning Rate: 0.001, Gamma: 0.95
+2024-11-03 00:12:58 - Score: 676, Max Tile: 64, Layers: 4, Params: 19204, Epsilon: 1.0, Learning Rate: 0.001, Gamma: 0.95
+2024-11-03 00:14:27 - Score: 1132, Max Tile: 128, Layers: 4, Params: 19204, Epsilon: 0.985, Learning Rate: 0.001, Gamma: 0.95
+2024-11-03 00:15:59 - Score: 1116, Max Tile: 128, Layers: 4, Params: 19204, Epsilon: 0.970225, Learning Rate: 0.001, Gamma: 0.95
+2024-11-03 00:17:19 - Score: 932, Max Tile: 64, Layers: 4, Params: 19204, Epsilon: 0.955671625, Learning Rate: 0.001, Gamma: 0.95
+2024-11-03 00:18:27 - Score: 676, Max Tile: 64, Layers: 4, Params: 19204, Epsilon: 0.941336550625, Learning Rate: 0.001, Gamma: 0.95
